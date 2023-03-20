@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
+ *
  * * main - A program that prints using puts function
- * *
- * * Function: 0 (sussessful)
+ * 
+ *  * Function: Always 0 (sussessful)
  *
  *   */
 int main(void)
