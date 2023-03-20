@@ -4,7 +4,7 @@
 
 /**
  * main - A program that prints using puts function
- * return 0.
+ * Function: Always 0 (Success)
  */
 int main(void)
 {
